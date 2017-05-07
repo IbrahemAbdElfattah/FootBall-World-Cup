@@ -13,7 +13,7 @@ namespace World_FootBall_Cup
 {
     public partial class Form3 : Form
     {
-
+        List<string> Teams = new List<string>();
         List<string> PlayersNam = new List<string>();
         List<string> PlayersNum = new List<string>();
 
@@ -27,23 +27,33 @@ namespace World_FootBall_Cup
 
         private void button1_Click(object sender, EventArgs e)
         {
+            file.Close();
             Form2 m = new Form2();
             m.Show();
             this.Hide();
         }
-        //int i = 0;
+        System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\Data\Teams.txt");
         private void button3_Click(object sender, EventArgs e)
         {
+            file.WriteLine(comboBox2.Text);
+            Teams.Add(comboBox2.Text);
+            if( Teams.Count > 48)
+            {
+                MessageBox.Show("Teams is completed ! please go back Or click RESET Botton");
+            }
             for (int i = 0; i < PlayersNam.Count; i++)
             {
+                file.Write(PlayersNum[i]);
+                file.Write(" ");
+                file.Write(PlayersNam[i]);
+                file.WriteLine(" ");
                 PlyrNum.Add(PlayersNam[i],PlayersNum[i]);
             }
                 TeamPlyrs.Add(comboBox2.Text, PlyrNum);
                 PlyrNum.Clear();
                 PlayersNam.Clear();
                 PlayersNum.Clear();
-
-            System.IO.File.WriteAllText(@"C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\Data\WriteText.txt", TeamPlyrs.Keys.ToString());
+                            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -58,6 +68,8 @@ namespace World_FootBall_Cup
                 PlayersNum.Add(comboBox1.Text);
             }
         }
+
+        
 
 
 
