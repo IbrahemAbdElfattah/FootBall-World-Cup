@@ -76,7 +76,7 @@
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "World FootBall Cup";
+            this.Text = "FootBall World Cup";
             this.ResumeLayout(false);
 
         }

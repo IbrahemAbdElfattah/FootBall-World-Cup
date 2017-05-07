@@ -70,7 +70,7 @@
             this.MaximizeBox = false;
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "World FootBall Cup";
+            this.Text = "FootBall World Cup";
             this.ResumeLayout(false);
 
         }
