@@ -1,0 +1,11 @@
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\bin\Debug\World FootBall Cup.exe
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\bin\Debug\World FootBall Cup.pdb
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.csprojResolveAssemblyReference.cache
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form1.resources
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Properties.Resources.resources
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.csproj.GenerateResource.Cache
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.exe
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.pdb
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form2.resources
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form3.resources
+c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form4.resources
