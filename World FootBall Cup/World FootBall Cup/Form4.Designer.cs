@@ -55,7 +55,7 @@
             this.button3.BackColor = System.Drawing.Color.Green;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button3.Location = new System.Drawing.Point(350, 233);
+            this.button3.Location = new System.Drawing.Point(312, 233);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(103, 79);
             this.button3.TabIndex = 18;
@@ -69,11 +69,11 @@
             this.button4.Cursor = System.Windows.Forms.Cursors.Default;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button4.Location = new System.Drawing.Point(34, 231);
+            this.button4.Location = new System.Drawing.Point(269, 157);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(103, 79);
+            this.button4.Size = new System.Drawing.Size(169, 52);
             this.button4.TabIndex = 19;
-            this.button4.Text = "Cup Rounds";
+            this.button4.Text = "2nd Stage";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -83,7 +83,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gold;
-            this.label1.Location = new System.Drawing.Point(64, 59);
+            this.label1.Location = new System.Drawing.Point(64, 40);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(374, 73);
             this.label1.TabIndex = 20;
@@ -94,9 +94,9 @@
             this.button2.BackColor = System.Drawing.Color.Blue;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button2.Location = new System.Drawing.Point(193, 231);
+            this.button2.Location = new System.Drawing.Point(77, 231);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(103, 79);
+            this.button2.Size = new System.Drawing.Size(103, 81);
             this.button2.TabIndex = 17;
             this.button2.Text = "Match schdule";
             this.button2.UseVisualStyleBackColor = false;
@@ -106,11 +106,11 @@
             // 
             this.button5.BackColor = System.Drawing.Color.Fuchsia;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(155, 149);
+            this.button5.Location = new System.Drawing.Point(34, 157);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(169, 52);
             this.button5.TabIndex = 21;
-            this.button5.Text = "Groups";
+            this.button5.Text = "Groups Stage";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click_1);
             // 
@@ -120,12 +120,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::World_FootBall_Cup.Properties.Resources._0;
             this.ClientSize = new System.Drawing.Size(481, 334);
-            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.button5);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
