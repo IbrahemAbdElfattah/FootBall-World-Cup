@@ -22,5 +22,37 @@ namespace World_FootBall_Cup
             m.Show();
             this.Hide();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form5 m = new Form5();
+            m.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form6 m = new Form6();
+            m.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form7 m = new Form7();
+            m.Show();
+            this.Hide();
+        }
+
+        
+
+        
+
+        
     }
 }
