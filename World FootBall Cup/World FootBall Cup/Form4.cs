@@ -47,6 +47,14 @@ namespace World_FootBall_Cup
             Form7 m = new Form7();
             m.Show();
             this.Hide();
+            
+        }
+
+        private void button5_Click_1(object sender, EventArgs e)
+        {
+            Form9 m = new Form9();
+            m.Show();
+            this.Hide();
         }
 
         

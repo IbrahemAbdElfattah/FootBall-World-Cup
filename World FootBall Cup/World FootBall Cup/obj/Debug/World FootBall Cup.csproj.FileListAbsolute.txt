@@ -9,3 +9,9 @@ c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World Foot
 c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form2.resources
 c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form3.resources
 c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form4.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form5.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form6.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form7.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form8.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form9.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form10.resources

@@ -14,7 +14,12 @@ namespace World_FootBall_Cup
 {
     public partial class Form3 : Form
     {
-        List<string> Teams = new List<string>();
+        public static class Globals
+        {
+            public static List<string> Teams = new List<string>(); // Modifiable in Code
+        }
+
+       // public List<string> Teams = new List<string>();
         List<string> PlayersNam = new List<string>();
         List<string> PlayersNum = new List<string>();
 
@@ -23,40 +28,44 @@ namespace World_FootBall_Cup
         
         public Form3()
         {
+            
             InitializeComponent();
         }
         
-        System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\Data\Teams.txt");
+        //System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\Data\Teams.txt");
         
         private void button1_Click(object sender, EventArgs e)
         {
-            file.Close();
+           // file.Close();
             Form2 m = new Form2();
             m.Show();
             this.Hide();
         }
+        int Num = 0;
         private void button3_Click(object sender, EventArgs e)
         {
-            file.WriteLine(comboBox2.Text);
-            Teams.Add(comboBox2.Text);
-            if( Teams.Count > 32)
+            //file.WriteLine(comboBox2.Text);
+            
+            if (Globals.Teams.Count > 32)
             {
                 MessageBox.Show("Teams is completed ! please go back Or click RESET Botton");
+                return;
             }
             for (int i = 0; i < PlayersNam.Count; i++)
-            {
+            {/*
                 file.Write(PlayersNum[i]);
                 file.Write(" ");
                 file.Write(PlayersNam[i]);
-                file.WriteLine(" ");
-
+                file.WriteLine(" ");*/
                 PlyrNum.Add(PlayersNam[i],PlayersNum[i]);
             }
                 TeamPlyrs.Add(comboBox2.Text, PlyrNum);
+                Globals.Teams.Add(comboBox2.Text);
                 PlyrNum.Clear();
                 PlayersNam.Clear();
                 PlayersNum.Clear();
-                            
+                Num += 1;
+                label10.Text = Num.ToString();            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -78,26 +87,27 @@ namespace World_FootBall_Cup
 
         private void button4_Click(object sender, EventArgs e)
         {
-            file.Close();
+            //file.Close();
             comboBox2.Text = "";
             PlyrNum.Clear();
             PlayersNam.Clear();
             PlayersNum.Clear();
             TeamPlyrs.Clear();
-            Teams.Clear();
+            Globals.Teams.Clear();
             System.IO.StreamWriter fil = new System.IO.StreamWriter(@"C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\Data\Teams.txt");
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             this.Close();
-            file.Close();
+           // file.Close();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
+        
 
-        }
+        
+
+        
 
     }
 }
