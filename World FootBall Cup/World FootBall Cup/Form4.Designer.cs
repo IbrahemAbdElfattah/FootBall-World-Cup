@@ -55,9 +55,9 @@
             this.button3.BackColor = System.Drawing.Color.Green;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button3.Location = new System.Drawing.Point(312, 233);
+            this.button3.Location = new System.Drawing.Point(269, 233);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(103, 79);
+            this.button3.Size = new System.Drawing.Size(169, 63);
             this.button3.TabIndex = 18;
             this.button3.Text = "Top Scorers";
             this.button3.UseVisualStyleBackColor = false;
@@ -94,11 +94,11 @@
             this.button2.BackColor = System.Drawing.Color.Blue;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button2.Location = new System.Drawing.Point(77, 231);
+            this.button2.Location = new System.Drawing.Point(34, 231);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(103, 81);
+            this.button2.Size = new System.Drawing.Size(169, 65);
             this.button2.TabIndex = 17;
-            this.button2.Text = "Match schdule";
+            this.button2.Text = "Match schdule group stage";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -118,7 +118,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::World_FootBall_Cup.Properties.Resources._0;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(481, 334);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label1);
