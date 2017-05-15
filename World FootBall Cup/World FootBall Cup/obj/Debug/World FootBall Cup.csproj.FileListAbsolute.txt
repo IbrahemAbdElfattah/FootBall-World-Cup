@@ -16,3 +16,7 @@ C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World Foot
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form9.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form10.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form11.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form13.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form12.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form14.resources
+C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form15.resources

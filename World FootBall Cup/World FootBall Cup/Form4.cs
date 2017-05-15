@@ -37,19 +37,12 @@ namespace World_FootBall_Cup
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form6 m = new Form6();
+            Form13 m = new Form13();
             m.Show();
             this.Hide();
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Form7 m = new Form7();
-            m.Show();
-            this.Hide();
-            
-        }
-
+       
         private void button5_Click_1(object sender, EventArgs e)
         {
             Form9 m = new Form9();
