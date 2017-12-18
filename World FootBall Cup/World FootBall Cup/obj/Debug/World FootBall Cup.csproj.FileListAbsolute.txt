@@ -11,7 +11,6 @@ c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World Foot
 c:\users\iaa\documents\visual studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form4.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form5.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form6.resources
-C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form7.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form8.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form9.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form10.resources
@@ -20,3 +19,24 @@ C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World Foot
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form12.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form14.resources
 C:\Users\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form15.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.exe
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.pdb
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\ResolveAssemblyReference.cache
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form1.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form10.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form11.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form12.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form13.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form14.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form15.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form2.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form3.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form4.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form5.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form6.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form8.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Form9.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World_FootBall_Cup.Properties.Resources.resources
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\obj\Debug\World FootBall Cup.csproj.GenerateResource.Cache
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\bin\Debug\World FootBall Cup.exe
+E:\Sharing\New folder\IAA\Documents\Visual Studio 2012\Projects\World FootBall Cup\World FootBall Cup\bin\Debug\World FootBall Cup.pdb
